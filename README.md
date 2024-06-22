@@ -2,13 +2,16 @@
 
 Requirement:
 - pyhton 3.11.2 for kernel
-Basic Model
+
+Basic Model:
 - pandas
 - scikit-learn
 - matplotlib
 - tensorflow
-ModelwithSMOTE
+
+ModelwithSMOTE:
 - [same with basic model]
 - imblearn
-FinalModel
+
+FinalModel:
 - [no additional requirement]
