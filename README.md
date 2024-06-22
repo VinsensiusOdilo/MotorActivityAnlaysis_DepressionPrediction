@@ -17,4 +17,12 @@ ModelwithSMOTE:
 FinalModel:
 - [no additional requirement]
 
-a\nb
+**Problem Statement**
+
+**Aim**
+
+**Methodology**
+
+**Result**
+
+**Conclusion**
