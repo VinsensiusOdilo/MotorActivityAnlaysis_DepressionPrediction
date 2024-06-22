@@ -16,7 +16,7 @@ Model with SMOTE and Final Model
 </ul>
 
 <h2>Introduction</h2>
-<p>Many things we do in our daily lives can increase the risk of developing depression, from having extreme different sleep time between weekday and weekends, or even doing to much activity in a day, due to it being so easy to increase the risk on developing depression makes depression one of the most common mental illnesses. if depression is allowed to get worse, there will be many negative impacts that arise either from thoughts or actions. Worst case scenario it can drive people to commit suicide.</p>
+<p>Many things we do in our daily lives can increase the risk of developing depression, from having extreme difference in sleep time between weekdays and weekends, or even doing to much activity in a day, due to it being so easy to increase the risk on developing depression makes depression one of the most common mental illnesses. if depression is allowed to get worse, there will be many negative impacts that arise either from thoughts or actions. Worst case scenario it can drive people to commit suicide.</p>
 <h2>Aim</h2>
 <p>The aim of this model is to predict depression at the earliest stage, in hope that the person diagnosed could get treated as early as possible too. Thus the reason of creating the hybrid model using CNN and LSTM.</p>
 <h2>Method</h2>
@@ -59,5 +59,5 @@ Model with SMOTE and Final Model
 <h2>Suggestion for future works</h2>
 <ul>
   <li>Try using other kind of classifier or methods for oversampling and validation.</li>
-  <li>Try classify depression even further to unipolar or bipolar class.</li>
+  <li>Try classify depression even further to unipolar or bipolar classes.</li>
 </ul>
